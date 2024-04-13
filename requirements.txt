@@ -1,0 +1,9 @@
+PyQt5
+pywin32
+pyserial
+PyQt-Fluent-Widgets
+opencv-python
+torch
+torchvision
+torchaudio
+numpy==1.23.5
